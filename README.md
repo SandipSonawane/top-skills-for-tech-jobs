@@ -15,4 +15,4 @@ Below is the preview of the dashboard with job category selection of 'Data Scien
 <img src="Screenshots/data_science.PNG" width="100%">
 
 Below is the preview of Facebook skills analysis using LDA
-<img src="Screenshots/top-skills.PNG" width="100%">
+<img src="Screenshots/top-skills.png" width="100%">
